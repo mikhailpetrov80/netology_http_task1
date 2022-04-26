@@ -59,5 +59,4 @@ public class Cat {
                 "\n upvotes = " + upvotes;
     }
 
-    //public List<Cat> reformerJson ();
 }
